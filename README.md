@@ -1,4 +1,4 @@
-### Hi, Welcome to my Github profile 👋
+### Hi, Welcome To My Github Profile 👋
 
 
 I am Bassam Elabassy, a student at the Faculty of Computers and Artificial Intelligence, Benha University, and I study in the Department of Computer Science at the faculty.
@@ -14,7 +14,7 @@ I am Bassam Elabassy, a student at the Faculty of Computers and Artificial Intel
 
 
 - 🌱 I’m currently learning ... Angular.js
-- 💬 Ask me about ... any thing about my skills
+- 💬 Ask me about ... Anything about my skills
 - 📫 How to reach me: ... [My Website](https://bassamelabassy.me)
 
 
