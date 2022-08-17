@@ -12,6 +12,7 @@ I am Bassam Elabassy, a student at the Faculty of Computers and Artificial Intel
 * JQUERY 
 * AJAX
 * JSON
+* API
 * Git / Github
 
 
