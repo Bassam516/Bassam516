@@ -10,6 +10,8 @@ I am Bassam Elabassy, a student at the Faculty of Computers and Artificial Intel
 * Bootstrap 
 * scss
 * JQUERY 
+* AJAX
+* JSON
 * Git / Github
 
 
