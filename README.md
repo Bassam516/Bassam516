@@ -1,18 +1,19 @@
 ### Hi, Welcome To My Github Profile 👋
 
 
-I am Bassam Elabassy, a web developer, I graduated from the Faculty of Computers and Artificial Intelligence, Benha University.
+I am Bassam Elabbasy, a fullstack developer, I graduated from the Faculty of Computers and Artificial Intelligence, Benha University.
 
 ## My Skills.
 * HTML5
 * CSS3
 * javascript (ES6)
+* Angular
+* TypeScript 
 * Bootstrap 
 * scss
 * JQUERY 
 * AJAX
-* JSON
-* API
+* spring boot
 * Git / Github
 
 
